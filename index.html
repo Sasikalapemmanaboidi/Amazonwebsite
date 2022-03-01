@@ -14,6 +14,36 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
     <link href="Amazon-app-logo.jpeg" rel="icon"/>
     <title>Amazon.in</title>
+    <style>
+        body{
+            background-color: white;
+            color: black;
+        }
+        .mydark{
+            background-color: black;
+            color: white;
+        }
+        #coupon{
+          height: 154px;
+          width: 340px;
+          background-image: url(couponimg.jpg);
+          z-index: 100;
+          margin: auto;
+          visibility: hidden;
+        }
+    </style>
+    <script>
+        function changeMode(){
+            var mybody=document.body;
+            mybody.classList.toggle('mydark')
+        }
+        function loadCoupon(){
+            document.getElementById('coupon').style.visibility='visible'
+        }
+        function closeCoupon(){
+            document.getElementById('coupon').style.visibility='hidden'
+        }
+    </script>
   </head>
   <body>
     <nav class="navbar navbar-light bg-dark text-white">
@@ -21,7 +51,7 @@
             <div class="row">
                 <div class="col-xl-1">
                     <a class="navbar-brand text-white" href="#">
-                        <img src="amazon_PNG11.png" alt="amazon icon" width="50" height="50" class="d-inline-block align-text-top">
+                        <img src="amazon_PNG11.png" alt="amazon icon" width="75" height="75" class="d-inline-block align-text-top">
                         <span>.in</span>
                     </a>
                 </div>
@@ -70,7 +100,7 @@
                           <li><a class="dropdown-item" href="#"><input type="radio" name="langauage">Bengali - BN</a></li>
                           <hr/>
                           <i class="bi bi-flag" style="font-size: 1.5rem; color: cornflowerblue;"></i><span>You are shopping on Amazon.in</span>
-                          <a href="#">Change country/region.</a>
+                          <a href="Change langauage setting.html">Change country/region.</a>
                         </ul>
                       </li>
                     </ul>
@@ -79,9 +109,14 @@
                 <div class="col-xl-1">
                   <div class="container-fluid text-white">
                     <ul class="navbar-nav text-white">
+                      <li class="nav-item">
+                        <form class="container-fluid text-white">
+                          <button class="btn btn-outline-secondary me-1" type="button"><a href="sign-in.html" class="link-primary" target="_blank">Sign-in</a></button>
+                        </form>
+                      </li>
                       <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Hello,Sign-in<br/>Accounts & Lists
+                        Accounts & Lists
                         </a>
                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
                           <li><a class="dropdown-item" href="#"></a></li>
@@ -97,7 +132,7 @@
                     <ul class="navbar-nav text-white">
                       <li class="nav-item">
                         <form class="container-fluid text-white">
-                          <button class="btn btn-outline-success me-2" type="button">Returns & orders</button>
+                          <button class="btn btn-outline-secondary me-2" type="button">Returns & orders</button>
                         </form>
                       </li>
                     </ul>
@@ -109,6 +144,7 @@
                       <li class="nav-item">
                         <form class="container-fluid text-white">
                           <button class="btn btn-sm btn-outline-secondary" type="button"><i class="bi bi-cart-plus" style="font-size: 1.5rem; color: cornflowerblue;"></i></button>
+                          <button class="btn btn-sm btn-outline-secondary" type="button" onClick="changeMode()">Light Mode</button>
                         </form>
                       </li>
                     </ul>
@@ -193,7 +229,6 @@
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
-          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>  
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -208,9 +243,6 @@
           <div class="carousel-item">
             <img src="slider/slide_4.jpg" class="d-block w-100" alt="slide4 image">
           </div>
-          <div class="carousel-item">
-            <img src="slider/slide_5.jpg" class="d-block w-100" alt="slide5 image">
-          </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -220,6 +252,9 @@
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Next</span>
         </button>
+    </div>
+    <div id="coupon">
+      <button onClick="closeCoupon()">&times;</button>
     </div>
     <div class="container-fluid">
       <div class="row">
@@ -483,7 +518,9 @@
         </div>
       </div>
     </div>
-  
+    <script>
+      window.onload=loadCoupon()
+    </script>
       
 
 
