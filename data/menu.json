@@ -1,0 +1,562 @@
+[
+{
+    "id": 1,
+    "name": "Photo Frames",
+    "category_id": 1,
+    "category":"Revamp your home in styles",
+    "img": "https://ibb.co/DWrZj4S",
+    "description": "Home Decor: Buy Home Decor Articles, Interior Decoration & Paintings Online at Low prices in india",
+    "price": 299,
+    "rating":4.5
+},
+{
+    "id": 2,
+    "name": "Room decoration",
+    "category_id": 1,
+    "category":"Revamp your home in styles",
+    "img": "https://ibb.co/k9npJH3",
+    "description": "Home Decor: Buy Home Decor Articles, Interior Decoration & Paintings Online at Low prices in india",
+    "price": 500,
+    "rating":4.5
+},
+{
+    "id": 3,
+    "name": "Bedsheets and curtains",
+    "category_id": 1,
+    "category":"Revamp your home in styles",
+    "img": "https://ibb.co/k9npJH3",
+    "description": "Home Decor: Buy Home Decor Articles, Interior Decoration & Paintings Online at Low prices in india",
+    "price": 750,
+    "rating":4.2
+},
+{
+    "id": 4,
+    "name": "Door Mats",
+    "category_id": 1,
+    "category":"Revamp your home in styles",
+    "img": "https://ibb.co/PFw9B3j",
+    "description": "Home Decor: Buy Home Decor Articles, Interior Decoration & Paintings Online at Low prices in india",
+    "price": 250,
+    "rating":4.0
+},
+{
+    "id": 5,
+    "name": "vivo phone",
+    "category_id": 2,
+    "category":"Mobiles",
+    "img": "https://ibb.co/LZ7vxhQ",
+    "description": "Vivo S1 Images [HD]: Photo Gallery of Vivo S1",
+    "price": 12000,
+    "rating":4.2
+},
+{
+    "id": 6,
+    "name": "Redmi phone",
+    "category_id": 2,
+    "category":"Mobiles",
+    "img": "https://ibb.co/p44yqqw",
+    "description": "Redmi 9 Activ (Coral Green, 4GB RAM, 64GB Storage)",
+    "price": 12500,
+    "rating":4.2
+},
+{  
+    "id": 7,
+    "name": "OPPO phone",
+    "category_id": 2,
+    "category":"Mobiles",
+    "img": "https://ibb.co/X3B1sLw",
+    "description": "OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+    "price": 18000,
+    "rating":4.2
+},
+{
+    "id": 8,
+    "name": "i phone",
+    "category_id": 2,
+    "category":"Mobiles",
+    "img": "https://ibb.co/3mcNMng",
+    "description": "Apple iPhone 13 (128GB) - Midnight",
+    "price": 75000,
+    "rating":4.8
+},
+{
+    "id": 9,
+    "name": "Apple laptop",
+    "category_id": 3,
+    "category":"Electronics",
+    "img": "https://ibb.co/ZxXKCwz",
+    "description": "Buy Apple MacBook MNYM2HN/A 12-inch Laptop (M3-7Y32/8GB/256GB/Mac OS/Integrated Graphics), Rose Gold Online at Low Prices in India",
+    "price": 90000,
+    "rating":3.8
+},
+{
+    "id": 10,
+    "name": "boat bluetooth",
+    "category_id": 3,
+    "category":"Electronics",
+    "img": "https://ibb.co/yPgJXDH",
+    "description": "Boat Bluetooth with number one quality of sound",
+    "price": 1200,
+    "rating":4.3
+},
+{
+    "id": 11,
+    "name": "Samsung tv",
+    "category_id": 3,
+    "category":"Electronics",
+    "img": "https://ibb.co/0ZjCvgT",
+    "description": "Samsung TV 1m 08cm (43) TE50A Smart HD TV ",
+    "price": 32000,
+    "rating":4.0
+},
+{
+    "id": 12,
+    "name": "Ac",
+    "category_id": 3,
+    "category":"Electronics",
+    "img": "https://ibb.co/Dg7xHXk",
+    "description": "AmazonBasics 2 Ton 3 Star 2021 Inverter Split AC : Amazon.in: Home & Kitchen",
+    "price": 50000,
+    "rating":4.0
+},
+{
+    "id": 13,
+    "name": "washing machine",
+    "category_id": 3,
+    "category":"Electronics",
+    "img": "https://ibb.co/p3WHSrP",
+    "description": "ifb front load washing machine with 4 star rating",
+    "price": 36000,
+    "rating":4.4
+},
+{
+    "id": 14,
+    "name": "Refrigertor",
+    "category_id": 3,
+    "category":"Electronics",
+    "img": "https://ibb.co/fGVd0Tr",
+    "description": "Convertable Tripple door refrigerator",
+    "price": 36000,
+    "rating":4.4
+},
+{
+    "id": 15,
+    "name": "sofa",
+    "category_id": 4,
+    "category":"Furnitures",
+    "img": "https://ibb.co/3BxZ9Ch",
+    "description": "Red Color sofa with width 80 meters",
+    "price": 20000,
+    "rating":4.0
+},
+{
+    "id": 16,
+    "name": "Computer setup table",
+    "category_id": 4,
+    "category":"Furnitures",
+    "img": "https://ibb.co/WyFmq6X",
+    "description": "Computer setup table with different racks ",
+    "price": 5000,
+    "rating":4.5
+},
+{
+    "id": 17,
+    "name": "mini set table with chairs",
+    "category_id": 4,
+    "category":"Furnitures",
+    "img": "https://ibb.co/fMR8T87",
+    "description": "mini set table with chairs",
+    "price": 4500,
+    "rating":4.0
+},
+{
+    "id": 18,
+    "name": "Dinning Table",
+    "category_id": 4,
+    "category":"Furnitures",
+    "img": "https://ibb.co/pbMP8LB",
+    "description": "Big Dinning Table with plain wood with four chairs ",
+    "price": 15000,
+    "rating":4.5
+},
+{
+    "id": 19,
+    "name": "Aashirvaad Superior MP Atta",
+    "category_id": 5,
+    "category":"Groceries",
+    "img": "https://ibb.co/K5gYssm",
+    "description": "Aashirvaad Superior MP Atta is made using the 4-step advantage process which ensures 100% pure and natural whole wheat atta and retention of its natural dietary fibres and nutrients",
+    "price": 460,
+    "rating":4.9
+},
+{
+    "id": 20,
+    "name": "Organic Tattva - Organic Chana (Bengalgram) Dal 2 KG | 100% Vegan, Gluten Free and No Additives | Rich in Protein and Nutrition",
+    "category_id": 5,
+    "category":"Groceries",
+    "img": "https://ibb.co/GRZ2Bpw",
+    "description": "Grown without synthetic Pesticides and without synthetic GMOs,Unpolished: Does not undergo any artificial polishing with water, oil or leather thereby retaining its goodness and wholesomeness",
+    "price": 670,
+    "rating":4.6
+},
+{
+    "id": 21,
+    "name": "Tata Sampann 100% Chana Dal Fine Besan, 1kg",
+    "category_id": 5,
+    "category":"Groceries",
+    "img": "https://ibb.co/whZk095",
+    "description": "It can be used to prepare some delicious Dhokla, Kadhi, Fafda, Sev and other namkeens Has a very high protein content",
+    "price": 118,
+    "rating":4.9
+},
+{
+    "id": 22,
+    "name": "Bru Instant Coffee Pouch",
+    "category_id": 5,
+    "category":"Groceries",
+    "img": "https://ibb.co/9vqnxkD",
+    "description": "Bru Instant Coffee is a perfect mix of 70% coffee and 30% chicory,Blend of choicest Arabica and Robusta beans roasted to perfection",
+    "price": 120,
+    "rating":4.3
+},
+{
+    "id":23,
+    "name": "Tata Sampann Chana Dal 1 Kg - Organic Healthy Pulses",
+    "category_id": 5,
+    "category":"Groceries",
+    "img": "https://ibb.co/xMKXvpg",
+    "description": "Organic Chana Dal. Eat Natural Live Healthy.Daily Need Products For A Healthy And Energetic Life.Chana dal is high in fiber and help to lower cholesterol. Apart from having a great taste",
+    "price": 157,
+    "rating":4.2
+},
+{
+    "id": 24,
+    "name": "Ahaar Maize Flour (Makki Atta, Corn Flour), 1kg",
+    "category_id": 5,
+    "category":"Groceries",
+    "img":"https://ibb.co/XxLWmQy",
+    "description": "Rich in protein, dietary fiber and very low in fat.Ahaar makka atta is made from hand picked, fine quality farm maize",
+    "price": 85,
+    "rating":4.6
+},
+{
+    "id": 25,
+    "name": "Fortune Chakki Fresh Atta, 10 kg",
+    "category_id": 5,
+    "category":"Groceries",
+    "img":"https://ibb.co/R6sr1dC",
+    "description": "Absorbs water more efficiently to make your rotis soft and fluffy Intensive wheat cleaning process and hygienic packaging High perfection in granulation",
+    "price": 450,
+    "rating":4.5
+},
+{
+    "id": 26,
+    "name": "Freedom Refined Sunflower Oil, 1L",
+    "category_id": 5,
+    "category":"Groceries",
+    "img":"https://ibb.co/Kz0vm7g",
+    "description": "Light and healthy that is easy to digest.Rich in vitamins, which keeps skin healthy",
+    "price": 120,
+    "rating":3.8
+},
+{
+    "id": 27,
+    "name": "Freedom Refined Groundnut Oil Pouch, 1L",
+    "category_id": 5,
+    "category":"Groceries",
+    "img":"https://ibb.co/qCk1CM4",
+    "description": "Low absorb technology,Vitamin A and D2,Natural PUFA",
+    "price": 150,
+    "rating":4.4
+},
+{
+    "id": 28,
+    "name": "Organic Raw Peanut, 1kg",
+    "category_id": 5,
+    "category":"Groceries",
+    "img":"https://ibb.co/bJS5CGt",
+    "description": "Excellent protein source,Can be roasted or boiled",
+    "price":270,
+    "rating":4.1
+},
+{
+    "id": 29,
+    "name": "Lipstick",
+    "category_id": 6,
+    "category":"Cosmetics",
+    "img": "https://ibb.co/m9kJMGk",
+    "description": "Small Red Color Lipstick without liquid",
+    "price": 350,
+    "rating":4.5
+},
+{
+    "id": 30,
+    "name": "Foundation box",
+    "category_id": 6,
+    "category":"Cosmetics",
+    "img": "https://ibb.co/Bt0CMZJ",
+    "description": "Foundation with different skin tone",
+    "price": 500,
+    "rating":4.2
+},
+{
+    "id": 31,
+    "name": "Makeup Brushes",
+    "category_id": 6,
+    "category":"Cosmetics",
+    "img": "https://ibb.co/BZ03LxL",
+    "description": "Different sizes of makeup brushes with box kit",
+    "price": 1800,
+    "rating":4.2
+},
+{
+    "id": 32,
+    "name": "Face makeup kit",
+    "category_id": 6,
+    "category":"Cosmetics",
+    "img": "https://ibb.co/McxJ9JB",
+    "description": "Face makeup kit with different colours like pink, blue,orange,red,cream.",
+    "price": 1500,
+    "rating":4.2
+},
+{
+    "id": 33,
+    "name": "Bag",
+    "category_id": 7,
+    "category":"Accessories",
+    "img": "https://ibb.co/WgrXSM9",
+    "description": "Baby pink colour bag",
+    "price": 650,
+    "rating":4.5
+},
+{
+    "id": 34,
+    "name": "Hand Bag",
+    "category_id": 7,
+    "category":"Accessories",
+    "img": "https://ibb.co/2YwV7v1",
+    "description": "Blue colour hand bag with wallet",
+    "price":550,
+    "rating":4.2
+},
+{
+    "id": 35,
+    "name": "spects",
+    "category_id": 7,
+    "category":"Accessories",
+    "img": "https://ibb.co/1RQfbGj",
+    "description": "spects with different frames",
+    "price": 800,
+    "rating":4.0
+},
+{
+    "id": 36,
+    "name": "Necklace set",
+    "category_id": 7,
+    "category":"Accessories",
+    "img": "https://ibb.co/ZTN69K7",
+    "description": "one gram gold necklace set at lowest price",
+    "price":1200,
+    "rating":4.2
+},
+{
+    "id": 37,
+    "name": "Ladies watch",
+    "category_id": 8,
+    "category":"Watch",
+    "img": "https://ibb.co/W6Dd1t3",
+    "description": "Rounded dye with silver colour",
+    "price": 899,
+    "rating":4.5
+},
+{
+    "id": 38,
+    "name": "Gents watch",
+    "category_id": 8,
+    "category":"Watch",
+    "img": "https://ibb.co/yXHTdbG",
+    "description": "Gents watch with black colour rounded dile ",
+    "price": 999,
+    "rating":4.3
+},
+{
+    "id": 39,
+    "name": "Smart Watch",
+    "category_id": 8,
+    "category":"Watch",
+    "img": "https://ibb.co/9HgXHT7",
+    "description": "Smart watch with light pink colour belt",
+    "price": 4000,
+    "rating":4.8
+},
+{
+    "id": 40,
+    "name": "smart watch",
+    "category_id": 8,
+    "category":"Watch",
+    "img": "https://ibb.co/mh17c5g",
+    "description": "smart watch with digital screen",
+    "price": 5000,
+    "rating":4.5
+},
+{
+    "id": 41,
+    "name": "ceiling light",
+    "category_id": 9,
+    "category":"lighting decoration",
+    "img": "https://ibb.co/642W7pG",
+    "description": "ceiling decorative light",
+    "price":1200 ,
+    "rating":4.5
+},
+{
+    "id": 42,
+    "name": "Birthday lighting kit",
+    "category_id": 9,
+    "category":"lighting decoration",
+    "img": "https://ibb.co/642W7pG",
+    "description": "Happy birthday lighting decorative kit",
+    "price":1200 ,
+    "rating":4.5
+},
+{
+    "id": 43,
+    "name": "Ballon decoration lighting kit",
+    "category_id": 9,
+    "category":"lighting decoration",
+    "img": "https://ibb.co/YPpn4sr",
+    "description": "Ballon lighting decorative kit",
+    "price":1000 ,
+    "rating":4.4
+},
+{
+    "id": 44,
+    "name": "decoration lighting kit",
+    "category_id": 9,
+    "category":"lighting decoration",
+    "img": "https://ibb.co/QHJh9Gz",
+    "description": "lighting decorative kit",
+    "price":1000,
+    "rating":4.4
+},
+{
+    "id": 45,
+    "name": "Computer Science ",
+    "category_id": 10,
+    "category":"Books",
+    "img": "https://ibb.co/TR8mX4R",
+    "description": "Computer Science book for XI class",
+    "price": 350,
+    "rating":4.4
+},
+{
+    "id": 46,
+    "name": "Computer Science with c++ ",
+    "category_id": 10,
+    "category":"Books",
+    "img": "https://ibb.co/0nX9Y5X",
+    "description": "Computer Science with c++ for class XII",
+    "price": 400,
+    "rating":4.5
+},
+{
+    "id": 46,
+    "name": "Computer Science with python",
+    "category_id": 10,
+    "category":"Books",
+    "img": "https://ibb.co/qCwpTch",
+    "description": "Computer Science with python for class XII",
+    "price": 450,
+    "rating":4.5
+},
+{
+    "id": 46,
+    "name": "Computer Graphics",
+    "category_id": 10,
+    "category":"Books",
+    "img": "https://ibb.co/Y2pJtS8",
+    "description": "Computer Graphics",
+    "price": 455,
+    "rating":4.5
+},
+{
+    "id": 47,
+    "name": "fork",
+    "category_id":11 ,
+    "category":"Garments",
+    "img": "https://ibb.co/Vq7dffC",
+    "description": "pink and white fork for children",
+    "price": 2000,
+    "rating":4.5
+},
+{
+    "id": 48,
+    "name": "punjabi dresses",
+    "category_id":11 ,
+    "category":"Garments",
+    "img": "https://ibb.co/gdFfWMF",
+    "description": "punjabi dresses for children",
+    "price": 2500,
+    "rating":4.2
+},
+{
+    "id": 49,
+    "name": "T-shirt",
+    "category_id":11 ,
+    "category":"Garments",
+    "img": "https://ibb.co/NLHyy7d",
+    "description": "H.D.Garments Round Nack Black Printed",
+    "price": 499,
+    "rating":4.0
+},
+{
+    "id": 50,
+    "name": "Lehenga",
+    "category_id":11 ,
+    "category":"Garments",
+    "img": "https://ibb.co/gDLW3Yw",
+    "description": "Buy PURVAJA Women's Faux Silk Semi stitched Lehenga Choli (Pink-Pihu_Pink_Free Size)",
+    "price": 3500,
+    "rating":4.5
+},
+{
+    "id": 51,
+    "name": "Duck Toys",
+    "category_id":12 ,
+    "category":"Baby kits & toys",
+    "img": "https://ibb.co/4fJHcLh",
+    "description": "yellow colour duck toys for lower prices ",
+    "price": 250,
+    "rating":4.2
+},
+{
+    "id": 52,
+    "name": "toys for kids",
+    "category_id":12 ,
+    "category":"Baby kits & toys",
+    "img": "https://ibb.co/6BjSxF4",
+    "description": "different kinds of toys for kids only",
+    "price": 600,
+    "rating":4.2
+},
+{
+    "id": 53,
+    "name": "Johnson's baby kit",
+    "category_id":12 ,
+    "category":"Baby kits & toys",
+    "img": "https://ibb.co/P1dMbdy",
+    "description": "Johnson's baby kit at lowest price ",
+    "price": 1000,
+    "rating":4.3
+},
+{
+    "id": 54,
+    "name": "Children's baby trolley",
+    "category_id":12 ,
+    "category":"Baby kits & toys",
+    "img": "https://ibb.co/HpQKhky",
+    "description": "KITI KITS Children's Baby Stroller Toy Girl Baby Play House Trolley with Dolls Girls and Boys Toys 55 cm Pink Iron Tube (Blue)",
+    "price":1800 ,
+    "rating":4.2
+}
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "category_id":1,
+        "category_name": "Revamp your home in styles",
+        "category_image":"https://ibb.co/wNVc8hM"
+    },
+    {
+        "category_id":2,
+        "category_name":"Mobiles",
+        "category_image":"https://ibb.co/LZ7vxhQ"
+    },
+    {
+        "category_id":3,
+        "category_name":"Electronics",
+        "category_image":"https://ibb.co/d7Gbx71"
+    },
+    {
+        "category_id":4,
+        "category_name":"Furnitures",
+        "category_image":"https://ibb.co/hRYtC4p"
+    },
+    {
+        "category_id":5,
+        "category_name":"Groceries",
+        "category_image":"https://ibb.co/hFMtq3C"
+    },
+    {
+        "category_id":6,
+        "category_name":"Cosmetics",
+        "category_image":"https://ibb.co/NyQtPN3"
+    },
+    {
+        "category_id":7,
+        "category_name":"Accessories",
+        "category_image":"https://ibb.co/NZ4H8qQ"
+    },
+    {
+        "category_id":8,
+        "category_name":"Watch",
+        "category_image":"https://ibb.co/9Hv5sr9"
+    },
+    {
+        "category_id":9,
+        "category_name":"lighting decoration",
+        "category_image":"https://ibb.co/SwySTpv"
+    },
+    {
+        "category_id":10,
+        "category_name":"Books",
+        "category_image":"https://ibb.co/vLYjHvC"
+    },
+    {
+        "category_id":11,
+        "category_name":"Garments",
+        "category_image":"https://ibb.co/XX6Zz99"
+    },
+    {
+        "category_id":12,
+        "category_name":"Baby kits & toys",
+        "category_image":"https://ibb.co/2nTJ40r"
+    }
+]
