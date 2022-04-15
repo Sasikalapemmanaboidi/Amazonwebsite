@@ -13,6 +13,8 @@ https://amazonnodeapi.herokuapp.com/category
 //products as per categories
 https://amazonnodeapi.herokuapp.com/getProducts/?category_id=4
 >>>http://localhost:7900/getProducts/?category_id=4
+
+
 //filter on basis of cost
 
 
@@ -21,6 +23,8 @@ https://amazonnodeapi.herokuapp.com/getProducts/?category_id=4
 //details of products and menu wrt categories
 https://amazonnodeapi.herokuapp.com/productDetails/8
 >>>http://localhost:7900/productDetails/8
+
+
 //menuproducts wrt categories
 https://amazonnodeapi.herokuapp.com/menu/1
 >>>http://localhost:7900/menu/1
@@ -46,11 +50,11 @@ https://amazonnodeapi.herokuapp.com/vieworders?email=sashikala@gmail.com
 >>>localhost:7900/vieworders?email=sashikala@gmail.com
 
 
-
 //menu on basis of user selection (id)
 >>>localhost:7900/menuItem
 
 [51,42,31]
+
 [
     {
         "_id": "62506c8abedb89d7859d009c",
@@ -93,7 +97,7 @@ https://amazonnodeapi.herokuapp.com/vieworders?email=sashikala@gmail.com
 
 
 //update order
-localhost:7900/updateorder/625853241540acb7c299535b
+>>>localhost:7900/updateorder/625853241540acb7c299535b
 {
     
             "status": "In Transit",
