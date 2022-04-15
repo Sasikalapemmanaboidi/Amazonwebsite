@@ -1,11 +1,17 @@
+//live link
+https://amazonnodeapi.herokuapp.com
+
+
 //page1
 >list of categories
+https://amazonnodeapi.herokuapp.com/category
 http://localhost:7900/category
 
 
 
 //page2
 >products as per categories
+https://amazonnodeapi.herokuapp.com/getProducts/?category_id=4
 http://localhost:7900/getProducts/?category_id=4
 >filter on basis of cost
 
@@ -13,8 +19,10 @@ http://localhost:7900/getProducts/?category_id=4
 
 //page3
 >details of products and menu wrt categories
+https://amazonnodeapi.herokuapp.com/productDetails/8
 http://localhost:7900/productDetails/8
 //menuproducts wrt categories
+https://amazonnodeapi.herokuapp.com/menu/1
 http://localhost:7900/menu/1
 
 
@@ -31,6 +39,7 @@ localhost:7900/placeorder
     "status" : "pending"
 }
 >view order(get)
+https://amazonnodeapi.herokuapp.com/vieworders?email=sashikala@gmail.com
 localhost:7900/vieworders?email=sashikala@gmail.com
 >menu on basis of user selection (id)
 localhost:7900/menuItem
