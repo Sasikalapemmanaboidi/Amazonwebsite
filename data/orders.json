@@ -1,0 +1,57 @@
+[
+{
+    "_id":{"$oid":"625853241540acb7c299535b"},
+    "name":"sasikala",
+    "email":"sashikala@gmail.com",
+    "address":"dno:4-348, high school road, Madhavapatnam",
+    "phone":{"$numberDouble":"8688145688.0"},
+    "cost":{"$numberInt":"1000"},
+    "menuItem":
+    [
+        {"$numberInt":"3"},
+        {"$numberInt":"7"},
+        {"$numberInt":"9"}
+    ],
+    "status":"In Transit",
+    "bank_name":"SBI",
+    "bank_status":"transferred money"
+},
+{
+    "_id":{"$oid":"6258534e1540acb7c299535c"},
+    "name":"sasikala",
+    "email":"sashikala@gmail.com",
+    "address":"dno:4-348, high school road, Madhavapatnam",
+    "phone":{"$numberDouble":"8688145688.0"},
+    "cost":{"$numberInt":"599"},
+    "menuItem":
+    [
+        {"$numberInt":"3"},
+        {"$numberInt":"19"}
+    ],
+    "status":"pending"
+},
+{
+    "_id":{"$oid":"625853ad1540acb7c299535d"},
+    "name":"sudha",
+    "email":"sudha@gmail.com",
+    "address":"dno:4-348, ramalayam street, Madhavapatnam",
+    "phone":{"$numberDouble":"6309900021.0"},
+    "cost":{"$numberInt":"250"},
+    "menuItem":[{"$numberInt":"3"}],
+    "status":"pending"
+},
+{
+    "_id":{"$oid":"625853cb1540acb7c299535e"},
+    "name":"sudha","email":"sudha@gmail.com",
+    "address":"dno:4-348, ramalayam street, Madhavapatnam",
+    "phone":{"$numberDouble":"6309900021.0"},
+    "cost":{"$numberInt":"1500"},
+    "menuItem":
+    [
+        {"$numberInt":"31"},
+        {"$numberInt":"55"},
+        {"$numberInt":"71"}
+    ],
+    "status":"pending"
+}
+]
