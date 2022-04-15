@@ -3,22 +3,22 @@ https://amazonnodeapi.herokuapp.com
 
 
 //page1
->list of categories
+//list of categories
 https://amazonnodeapi.herokuapp.com/category
 >>>http://localhost:7900/category
 
 
 
 //page2
->products as per categories
+//products as per categories
 https://amazonnodeapi.herokuapp.com/getProducts/?category_id=4
 >>>http://localhost:7900/getProducts/?category_id=4
->filter on basis of cost
+//filter on basis of cost
 
 
 
 //page3
->details of products and menu wrt categories
+//details of products and menu wrt categories
 https://amazonnodeapi.herokuapp.com/productDetails/8
 >>>http://localhost:7900/productDetails/8
 //menuproducts wrt categories
@@ -27,7 +27,7 @@ https://amazonnodeapi.herokuapp.com/menu/1
 
 
 //page4
->place order(post)
+//place order(post)
 >>>localhost:7900/placeorder
 {
     "name" : "sudha",
@@ -38,13 +38,16 @@ https://amazonnodeapi.herokuapp.com/menu/1
     "menuItem" :[31,55,71],
     "status" : "pending"
 }
->view order(get)
+
+
+
+//view order(get)
 https://amazonnodeapi.herokuapp.com/vieworders?email=sashikala@gmail.com
 >>>localhost:7900/vieworders?email=sashikala@gmail.com
 
 
 
->menu on basis of user selection (id)
+//menu on basis of user selection (id)
 >>>localhost:7900/menuItem
 
 [51,42,31]
@@ -83,9 +86,13 @@ https://amazonnodeapi.herokuapp.com/vieworders?email=sashikala@gmail.com
         "rating": 4.2
     }
 ]
->delete order
+
+
+//delete order
 >>>localhost:7900/deleteorder
->update order
+
+
+//update order
 localhost:7900/updateorder/625853241540acb7c299535b
 {
     
