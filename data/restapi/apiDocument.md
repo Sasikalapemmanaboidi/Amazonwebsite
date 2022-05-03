@@ -14,10 +14,16 @@ https://amazonnodeapi.herokuapp.com/category
 https://amazonnodeapi.herokuapp.com/getProducts/?category_id=4
 >>>http://localhost:7900/getProducts/?category_id=4
 
+//API for cost filter:
+https://amazonnodeapi.herokuapp.com/filter/1?lcost=200&hcost=500
+>>>http://localhost:7900/filter/1?lcost=200&hcost=500
 
-//filter on basis of cost
-
-
+//pagination:
+https://amazonnodeapi.herokuapp.com/filter/1?lcost=100&hcost=1000&skip=0&limit=2
+>>>http://localhost:7900/filter/12?lcost=100&hcost=1000&skip=0&limit=2
+//Sort Low to High:
+https://amazonnodeapi.herokuapp.com/filter/2?lcost=100&hcost=1000&sort=1
+>>>http://localhost:7900/filter/7?lcost=100&hcost=1500&sort=1
 
 //page3
 //details of products and menu wrt categories
